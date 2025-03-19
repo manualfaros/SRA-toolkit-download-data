@@ -1,3 +1,4 @@
+##run the python script by simply navigating to the folder on your machine where you want to store the FASTQ files (via the command line), then running python fastq_download.py
 import subprocess
 
 # samples correspond to Het_1, Het_2, Imm_1, Imm_2
